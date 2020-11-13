@@ -32,7 +32,7 @@ div :last-child {
     white-space: nowrap;
     overflow-x: scroll;
     overflow-y: hidden;
-    background-color: #0077FF;
+    background-color: rgb(39,20,0);
 }
 #button {
     height: 40px;
