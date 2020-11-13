@@ -103,7 +103,6 @@ div :last-child {
 }
 
 .content p {
-	text-indent: 0em;
-	line-height: 1.7;
+	
 	text-align: center;
 }
